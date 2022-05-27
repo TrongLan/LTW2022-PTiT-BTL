@@ -15,9 +15,22 @@
 
 # MỘT VÀI MÀN HÌNH DEMO
 - Trang khách
+
+  ![alt text](https://github.com/TrongLan/LTW2022-PTiT-BTL/blob/master/BloggleScreenshort/visitor-page(1).png?raw=true)
+  
+  ![alt text](https://github.com/TrongLan/LTW2022-PTiT-BTL/blob/master/BloggleScreenshort/visitor-page(2).png?raw=true)
+  
 - Trang admin
   
+  ![alt text](https://github.com/TrongLan/LTW2022-PTiT-BTL/blob/master/BloggleScreenshort/admin-page(1).png?raw=true)
+  
+  ![alt text](https://github.com/TrongLan/LTW2022-PTiT-BTL/blob/master/BloggleScreenshort/admin-page(2).png?raw=true)
+  
 - Trang người dùng
+  
+  ![alt text](https://github.com/TrongLan/LTW2022-PTiT-BTL/blob/master/BloggleScreenshort/user-page(1).png?raw=true)
+  
+  ![alt text](https://github.com/TrongLan/LTW2022-PTiT-BTL/blob/master/BloggleScreenshort/user-page(2).png?raw=true)
 
 # QUÁ TRÌNH THỰC HIỆN BLOGGLE PROJECT & ĐÓNG GÓP CỦA CÁC THÀNH VIÊN
 GIAI ĐOẠN I: PHÂN TÍCH THIẾT KẾ (Lân, Trí, Thanh)
