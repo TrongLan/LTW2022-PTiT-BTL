@@ -56,10 +56,10 @@ GIAI ĐOẠN IV: LÀM CÁC CHỨC NĂNG CỦA ADMIN
 GIAI ĐOẠN V: LÀM CÁC CHỨC NĂNG CỦA NGƯỜI DÙNG
 - Đăng ký tài khoản (mã hóa mật khẩu, validate dữ liệu) (Thanh, Lân)
 - Đổi mật khẩu (dùng cho cả tài khoản admin) (Trí)
-- Đăng tải, chỉnh sửa, xóa bài viết (Lân, Trí, Thanh)
-- Tìm kiếm bài viết theo chủ đề (Lân)
-- Đăng, xóa bình luận (Lân, Thanh)
+- Đăng tải, chỉnh sửa, xóa bài viết (Lân, Trí)
+- Đăng, xóa bình luận (Lân, Trí)
 - Chấm điểm bài viết (đánh giá theo sao) (Lân)
+- Báo cáo bài viết (Lân)
 
 GIAI ĐOẠN VI: CODE GIAO DIỆN (Lân)
 - Giao diện khách
